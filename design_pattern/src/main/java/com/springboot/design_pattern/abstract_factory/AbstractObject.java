@@ -1,0 +1,7 @@
+package com.springboot.design_pattern.abstract_factory;
+
+public interface AbstractObject {
+
+    void print();
+
+}
